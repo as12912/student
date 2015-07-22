@@ -1,0 +1,100 @@
+body{
+	background-image: url('background.jpg');
+	/*background-color: #FEFEDD;*/
+	/*height: 700px;*/
+	 background-size: 1050px 800px;
+    background-repeat: no-repeat;
+}
+.container
+{
+	width: 980px;
+	/*height: 650px;*/
+	
+}
+.navigation_section{
+	
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+	background-color:rgba(0,0,0,0.5);
+	/*background-color: #577EF0;*/
+	
+
+
+}
+button{
+	background-color: #171714;
+	padding: 9px;
+	color: white;
+	border-color: #171714;
+	margin-left: -2.5px;
+	margin-right: -2px;
+}
+.register{
+	float: right;
+}
+.student{
+	font-size: 27px;
+	color: white;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-left: 25px;
+}
+.para_section{
+	height: 250px;
+	width: 430px;
+	/*background-color: #577EF0;*/
+	background-color:rgba(0,0,0,0.5);
+	/*margin-top: 50px;
+	margin-left: 25px;*/
+	opacity: ;
+	color: white;
+	padding: 25px;
+	float: left;
+	letter-spacing: 1px;
+	border-radius: 5px;
+}
+.footer_section{
+	padding: 10px;
+	color: white;
+	background-color:rgba(0,0,0,0.5);
+	/*background-color: #577EF0;*/
+	float: right;
+	margin-right: 25px;
+	border-radius: 5px;
+
+}
+.marquee{
+	background-color:rgba(0,0,0,0.5);
+	color: white;
+	
+}
+
+/*.position{
+	float: left;
+	width: 500PX;
+	background-image: url('back/1.png');
+}
+*/
+.images
+{
+	margin-left: 70px;
+	width: 300px;
+	height: 300px;
+	float: left;
+}
+.section_portion{
+	width: 980PX;
+	height: 300px;
+	/*float: left;*/
+	
+
+}
+img{
+	height: 300px;
+	width: 300px;
+	
+}
+h1{
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
